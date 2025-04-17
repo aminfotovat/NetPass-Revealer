@@ -23,4 +23,4 @@ NetPass Revealer is a Python utility that securely retrieves and displays saved 
 ## 📦 Installation
 ```bash
 git clone https://github.com/your-username/netpass-revealer.git
-cd netpass-revealer
+cd NetPass-Revealer
